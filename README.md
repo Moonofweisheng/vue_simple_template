@@ -1,4 +1,4 @@
-# integral_mall
+# vue_simple_template
 
 ## Project setup
 ```
